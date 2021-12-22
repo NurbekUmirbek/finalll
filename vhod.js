@@ -15,7 +15,7 @@ $(document).ready(function(){
             let log_em = document.getElementById("username").value;
             let log_pass = document.getElementById("password").value;
 
-            if(log_em == "admin" && log_pass == "password"){
+            if(log_em == "admin" && log_pass == "password@ROMANURBEK21"){
                 document.location.href = "adminpanel.html";
                 console.log("ff");
             }
