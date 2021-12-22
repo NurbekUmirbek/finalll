@@ -360,3 +360,12 @@ background: #C4C4C4;
 	margin-left: 11%;
 	margin-top: 8%;
 }
+.header__logout{
+	font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 21px;
+color: #000000;
+}
+
