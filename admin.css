@@ -1,6 +1,7 @@
 body {
 	background-image: url(image11.jpg);
 	position: absolute;
+	top: 15%;
 	left: 30%;
 }
 button {
