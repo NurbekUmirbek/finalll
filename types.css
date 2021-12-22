@@ -345,3 +345,18 @@ background: #C4C4C4;
 	margin-left: 7%;
 	margin-top: 4%;
 }
+.header_right_img1{
+	position: absolute;
+	bottom: 40%;
+}
+.header_right_p1{
+	position: absolute;
+	bottom: 35%;
+    left: 75%;
+	font-weight: bold;
+	font-size: 30px;
+	color: white;
+	position: absolute;
+	margin-left: 11%;
+	margin-top: 8%;
+}
