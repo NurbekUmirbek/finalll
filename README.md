@@ -1,3 +1,3 @@
 # finalll
-Nodescription
-НУРБЕК МАЛ
+NodescriptionЫ
+Рамазан, соси
